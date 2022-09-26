@@ -1,3 +1,3 @@
 # Data Analyst Portfolio Project Repository
 
- ### 1. COVID-19 Exploratory Data analysis
+ * ### COVID-19 Exploratory Data analysis
